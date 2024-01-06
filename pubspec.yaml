@@ -1,6 +1,6 @@
 name: flutter_udid
 description: Plugin to retrieve a persistent UDID across reinstalls on iOS and Android
-version: 2.0.1
+version: 2.1.0
 homepage: https://github.com/GigaDroid/flutter_udid
 
 dependencies:
@@ -14,8 +14,8 @@ dev_dependencies:
 
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=2.0.0"
+  sdk: '>=3.2.3 <4.0.0'
+  flutter: ">=1.17.0"
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
 
